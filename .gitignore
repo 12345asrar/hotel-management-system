@@ -1,0 +1,10 @@
+# C++ gitignore
+Debug/
+Release/
+bin/
+obj/
+*.sdf
+*.suo
+*.user
+*.tlog
+*.pch
